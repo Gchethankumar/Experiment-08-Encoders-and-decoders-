@@ -146,7 +146,7 @@ endmodule
 
 ### DECODER:
 
-![Screenshot_20230124_040140](https://user-images.githubusercontent.com/118348224/214283939-30335b1d-cc8e-4225-8d9a-4c781e708203.png)
+![Screenshot_20230124_095505](https://user-images.githubusercontent.com/118348224/214350444-08e42155-25e2-4d47-a1a9-c182285379a6.png)
 
 
 ## TRUTH TABLE: 
